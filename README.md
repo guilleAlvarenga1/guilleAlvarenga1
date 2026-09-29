@@ -10,7 +10,7 @@ Hello! I'm **Guille Alvarenga**, a passionate **Backend Developer** eager to lea
 
 ## 🌐 Find Me Online  
 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/guille-a-330954120/)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/guillermo-alvarenga/)  
 
 ## 📌 Featured Projects  
 
